@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1422787360 source:/root/workspace/ASynTcpServer/main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<string>
+	<map>
+	<set>
+	<queue>
+
